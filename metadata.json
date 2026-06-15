@@ -1,0 +1,6 @@
+{
+  "name": "NeuralOps Cluster Director",
+  "description": "Enterprise-grade autonomous orchestration, diagnostic center, and observability dashboard for high-performance GPU clusters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
